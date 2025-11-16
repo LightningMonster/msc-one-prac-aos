@@ -1,0 +1,2 @@
+This text is redirected to output.txt
+Hello SPPU!

@@ -1,0 +1,2 @@
+Hello, this is redirected output using dup()!
+Successfully redirected using open() and dup().

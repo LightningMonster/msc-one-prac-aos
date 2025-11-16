@@ -1,0 +1,2 @@
+This content is written using dup() and open().
+Slip 25 Q2 completed successfully.
