@@ -1,1 +1,0 @@
-./inode_check file1.txt file2.txt file3.txt test
